@@ -1,0 +1,7 @@
+name: Bulk Menu Delete
+description: 'Multiple menu intems deletion functionality for drupal core main menu'
+type: module
+package: helper
+core: 8.x
+core_version_requirement: ^8 || ^9
+

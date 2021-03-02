@@ -1,0 +1,7 @@
+bulkmenudelete.form:
+  path: '/admin/structure/menu/deletemenu'
+  defaults:
+    _form: '\Drupal\bulkmenudelete\Form\BulkMenuDeleteForm'
+    _title: 'Bulk Menu Delete'
+  requirements:
+    _permission: 'administer menus and menu links'

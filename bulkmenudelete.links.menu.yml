@@ -1,0 +1,5 @@
+bulkmenudelete.delete_form:
+  title: 'Multiple Menu Items Delete'
+  description: 'Deletes menus in bulk'
+  route_name: bulkmenudelete.form
+  parent: system.admin_structure
